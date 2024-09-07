@@ -23,21 +23,22 @@ Here are some screenshots of the project:
 
 ### News Sentiment Page
 
-![News Sentiment Page](./screenshots/news-sentiment.png)
+![News Sentiment Page](./screenshots/sentiment.png)
 
 ### Stock Summary Page
 
-![Stock Summary Page](./screenshots/stock-summary.png)
+![Stock Summary Page](./screenshots/summary.png)
 
-*Note: Add screenshots of various sections of your application here.*
+### Chatbot
 
-## Getting Started
+![QA Chatbot Page](./screenshots/chatbot.png)
 
-To run the project locally, follow these steps:
+### Stock Performance
 
-### Frontend (React)
+![Stock Performance Page](./screenshots/performance.png)
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/stock-market-frontend.git
+### News
+
+![Stock News Page](./screenshots/news.png)
+
